@@ -2,7 +2,7 @@
 
 The objective of this project is to build simple Student Management System web application in which the student details can be manipulated by performing CRUD Operations.<br>
 
-📖This project is managed by Admin.<br>
+📖This project is managed by Admin with the help of spring security.<br>
 
 📖Three layer spring MVC Architecture is used in this project.
 
